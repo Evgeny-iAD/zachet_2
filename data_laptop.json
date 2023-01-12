@@ -1,0 +1,10 @@
+{
+  "124351": ["Redos", 4, 250, "core i3", "black", 17],
+  "132353": ["Windows", 6, 500, "core i5", "black", 15],
+  "343432": ["Redos", 8, 500, "ryzen 9", "black", 14],
+  "324543": ["Windows", 6, 250, "core i9", "red", 14],
+  "345343": ["Redos", 4, 112, "ryzen 5", "red", 15],
+  "656221": ["Astra Linux", 12, 1000, "ryzen 5", "green", 15],
+  "234644": ["Astra Linux", 6, 500, "core i3", "green", 17],
+  "676532": ["Macos", 4, 800, "core i3", "purple", 14]
+}
